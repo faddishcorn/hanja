@@ -8392,5 +8392,11 @@
       </div>
   </div>
   <script src="script.js"></script>
+  <!-- Vercel Analytics 스크립트 -->
+  <script type="module">
+    import { inject } from 'https://unpkg.com/@vercel/analytics/browser/inject.js';
+
+    inject(); // Analytics 초기화
+</script>
   </body>
 </html>
