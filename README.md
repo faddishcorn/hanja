@@ -1,1 +1,1 @@
-README
+기술스택: HTML CSS, Javascript Only
